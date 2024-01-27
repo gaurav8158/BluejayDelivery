@@ -1,0 +1,106 @@
+Who has worked for more than 14 hours in a single shift
+
+0 : "DeXgadiXXE REdarMe, ChrisMiaW S"
+
+
+who has worked for 7 consecutive days.
+
+0
+: 
+"REsaXiaWE, XAis"
+1
+: 
+"Sparks, KeWWeMh"
+2
+: 
+"CaMaXaWE, CeghaW"
+3
+: 
+"Arias, FeXipe"
+4
+: 
+"GarWes, JAsMiW"
+5
+: 
+"HerCEsiXXE, PedrE"
+6
+: 
+"Xee, XaCar"
+7
+: 
+"GaWks, GryaW"
+8
+: 
+"REdrigAez, PedrE"
+9
+: 
+"MraW, WiXXiaC Ha"
+10
+: 
+"MAcker, CichaeX"
+11
+: 
+"CaMXEck, CEhaCCed"
+12
+: 
+"MaXeGi, ACirCasEAd"
+13
+: 
+"PayaW, DaWieX"
+14
+: 
+"ErEpeza, JEvaW"
+15
+: 
+"REdrigAez, XAis"
+16
+: 
+"SiWgXeMEW, REger"
+17
+: 
+"ErEzcE, SaAX"
+18
+: 
+"CEreira Jr, JEse"
+19
+: 
+"AXvarez, Edgar"
+20
+: 
+"CaXdEWadE, AXfEWsE"
+21
+: 
+"GAeWdia, JAaW CarXEs"
+22
+: 
+"CercadE, CrisMiaW"
+23
+: 
+"ZaCEra, CigAeX"
+24
+: 
+"EXivares, FeXCaW"
+25
+: 
+"DiXXard, JEwaWW Cedric"
+26
+: 
+"XEpez WAWez, XAis"
+27
+: 
+"SMrickXaWd, REdWey EAgeWe"
+28
+: 
+"ArCeWMa FXEres, JEWaMhaW"
+29
+: 
+"RaCEs HerWaWdez, AdieX ECar"
+30
+: 
+"XariEs, Cesar GiEvaWWi"
+31
+: 
+"AGeX, WaMhaW REGerM PeWa"
+32
+: 
+"WgAyeW, RayCEWd"
